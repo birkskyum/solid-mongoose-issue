@@ -1,4 +1,4 @@
-# SolidStart
+# Issue with mongoose and solidstart
 
 ```sh
 npm i
